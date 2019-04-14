@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:kellyselden/ember-cli-update-git-blueprint-test.git"
+    "url": "git+ssh://git@github.com/kellyselden/ember-cli-update-git-blueprint-test.git"
   },
   "main": "index.js",
   "keywords": [
