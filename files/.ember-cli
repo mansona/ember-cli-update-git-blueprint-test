@@ -3,7 +3,7 @@
     "blueprints": [
       {
         "name": "ember-cli-update-git-blueprint-test",
-        "location": "git@github.com:kellyselden/ember-cli-update-git-blueprint-test.git",
+        "location": "<%= blueprintLocation %>",
         "version": "<%= blueprintVersion %>"
       }
     ]

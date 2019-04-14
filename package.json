@@ -2,6 +2,10 @@
   "name": "ember-cli-update-git-blueprint-test",
   "version": "0.0.4",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com:kellyselden/ember-cli-update-git-blueprint-test.git"
+  },
   "main": "index.js",
   "keywords": [
     "ember-addon"
