@@ -1,16 +1,4 @@
 {
   "name": "ember-cli-update-git-blueprint-test",
-  "version": "0.0.16",
-  "description": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://git@github.com/kellyselden/ember-cli-update-git-blueprint-test.git"
-  },
-  "main": "index.js",
-  "keywords": [
-    "ember-addon"
-  ],
-  "ember-addon": {
-    "main": "ember-addon-main.js"
-  }
+  "version": "0.0.16"
 }
