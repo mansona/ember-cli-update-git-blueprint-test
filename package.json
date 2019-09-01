@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-update-git-blueprint-test",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "repository": {
     "type": "git",
     "url": "git+https://git@github.com/kellyselden/ember-cli-update-git-blueprint-test.git"
